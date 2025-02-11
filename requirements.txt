@@ -1,5 +1,0 @@
-streamlit
-python-dotenv==1.0.0
-azure-ai-language-conversations
-azure-core==1.26.0
-altair==4.2.2
